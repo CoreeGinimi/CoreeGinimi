@@ -1,4 +1,5 @@
-![alt text](https://github.com/kjcatherine/kjcatherine/raw/main/images/header.png)
+
+<img src="https://raw.githubusercontent.com/kjcatherine/kjcatherine/main/images/header.png" />
 
 <p align="center">
 <a href="https://catherinekj.netlify.app/"><img src="https://img.shields.io/badge/WEBSITE-fbae3a?style=for-the-badge&logo=Codewars&logoColor=orangered" height=25></a>
